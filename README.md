@@ -80,6 +80,7 @@ Open the PowerPoint presentation to review the summarized project content.
 
 This project provides useful insight into the growing adoption of electric vehicles and demonstrates how data visualization can help explain EV market trends in a simple and effective way.
 
+
 ## Future Improvements
 
 - Add Python-based exploratory data analysis
